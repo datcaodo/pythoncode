@@ -11,8 +11,9 @@ The dataset comprises of information on the following parameters:
   - orders
   - products
   - departments
+  - customers
 
-The full details of the data are available here.   
+The full details of the data are available in the folders that I uploaded.
 
 ## Tools
 For this project, the following python libraries were used: 
